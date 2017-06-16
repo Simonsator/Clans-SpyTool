@@ -1,0 +1,6 @@
+name: Log-Tool-For-Clans
+version: ${project.version}
+author: Simonsator
+depends: [PartyAndFriends]
+main: de.simonsator.partyandfriends.clans.logtool.LogToolMain
+description: An add-on for party and friends to log things that are written via /msg or /partychat
